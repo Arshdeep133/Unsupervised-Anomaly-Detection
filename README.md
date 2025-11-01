@@ -3,13 +3,13 @@ Unsupervised Anomaly Detection in Time Series Using Hidden Markov Models
 Group 19
 
 ## Authors
+Arshdeep Kaur (aka232) – 301540172
+
 Tushar Singh (tsa156) – 301560473
 
 David Mulej (dma122) – 301539538
 
 Victor Nguyen (avn) – 301458739
-
-Arshdeep Kaur (aka232) – 301540172
 
 ## Project Scope
 This project focuses on identifying anomalous patterns in electricity consumption data using unsupervised machine learning techniques. Specifically, we implement and evaluate Hidden Markov Models (HMMs) on time series data to detect deviations that could indicate operational faults or cyber threats in supervisory control systems. The analysis includes:
